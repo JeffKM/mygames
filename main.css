@@ -1,0 +1,11 @@
+#mainCanvas {
+	width: 1000px;
+	height: 800px;
+	border: solid 1px black;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	display: block;
+}
+
